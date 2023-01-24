@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seajay00
 - 👀 I’m interested in karate
-- 🌱 I’m currently learning py
+- 🌱 I’m currently learning .py
 - 💞️ I’m looking to collaborate on ml
 - 📫 How to reach me igepard@ya.ru
 
